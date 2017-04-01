@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 1, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Helei Gomariz)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Editing a recipe application to make it responsive.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://heleirious.github.io/lesson7_jquery/Lesson7_Assignment/index.html
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Jquery is used to implement javascript
+2. Every Jquery statement begins with the $ symbol
+3. 
